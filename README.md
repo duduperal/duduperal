@@ -1,45 +1,31 @@
-# Olá, eu sou o José Eduardo Goulart Peral! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de software. Atualmente, estou no 2º período da faculdade de Sistemas de Informação, mergulhando fundo no mundo da programação e construção de aplicações.
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-## 💻 Tecnologias e Ferramentas
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-- **Linguagens de Programação:**
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-  - JavaScript (aprendendo e criando projetos dinâmicos)
-  - Java (forte foco no back-end com Spring Boot)
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-- **Banco de Dados:**
-
-  - SQL
-
-- **Infraestrutura e DevOps:**
-
-  - AWS (início da jornada com serviços em nuvem)
-  - Docker e Kubernetes (planejando me aprofundar em breve)
-
-- **Ferramentas de Colaboração:**
-
-  - Git/GitHub
-
-## 🌱 O que estou estudando atualmente
-
-Atualmente, estou concentrado em melhorar minhas habilidades em back-end, utilizando Java e Kotlin, e aprendendo boas práticas no desenvolvimento de APIs REST.
-
-## 🚀 Objetivos para o Futuro
-
-- Dominar Docker e Kubernetes para implantações eficientes.
-- Aprofundar conhecimentos em microserviços.
-- Desenvolver projetos pessoais que integrem o que aprendi.
-
-## 🔗 Como me encontrar
-
-- **LinkedIn:** [José Eduardo Goulart Peral](https://www.linkedin.com)
-- **GitHub:** [duduperal](https://github.com/duduperal)
-
----
-
-### “A tecnologia é a arte de resolver problemas com criatividade.”
-
-Fique à vontade para explorar meus repositórios e acompanhar minha jornada no mundo do desenvolvimento! 😄
-
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
