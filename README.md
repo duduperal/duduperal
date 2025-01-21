@@ -15,8 +15,34 @@
 <p align="left">
   💼 Ferramentas: Spring Boot, AWS, Docker, Kubernetes, Git/GitHub, sistemas ERP e CRM
 </p>
-[![duduperal](https://github-readme-stats.vercel.app/api/top-langs/?username=duduperal&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left">
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=duduperal&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduperal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=duduperal&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
   💌 Entre em contato comigo: ⤵️
 </p>
 
