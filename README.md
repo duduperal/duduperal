@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é <strong>[Eduardo]</strong>. Sou estudante de Sistemas de Informação, atualmente no 2º período da faculdade. Meu foco principal é no desenvolvimento back-end, com um interesse especial em Java, Kotlin, Spring Boot e SQL. Também estou explorando tecnologias como AWS, Docker e Kubernetes para me aprofundar no universo da engenharia de software.
+  Olá, meu nome é <strong>Eduardo</strong>. Sou estudante de Sistemas de Informação, atualmente no 2º período da faculdade. Meu foco principal é no desenvolvimento back-end, com um interesse especial em Java, Kotlin, Spring Boot e SQL. Também estou explorando tecnologias como AWS, Docker e Kubernetes para me aprofundar no universo da engenharia de software.
 </p>
 
 <p align="left">
