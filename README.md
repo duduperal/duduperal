@@ -11,7 +11,7 @@
 <p align="left">
   💼 Tools: Spring Boot, AWS, Docker, Kubernetes, Git/GitHub, ERP and CRM systems
 </p>
-### ⚙️ GitHub Analytics
+<h2>⚙️ GitHub Analytics</h2>
 <table>
   <tr>
     <td>
