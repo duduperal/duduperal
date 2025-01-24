@@ -1,23 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Olá, meu nome é <strong>Eduardo</strong>. Sou estudante de Sistemas de Informação, atualmente no 2º período da faculdade. Meu foco principal é no desenvolvimento back-end, com um interesse especial em Java, Kotlin, Spring Boot e SQL. Também estou explorando tecnologias como AWS, Docker e Kubernetes para me aprofundar no universo da engenharia de software.
+  Hello, my name is <strong>Eduardo</strong>. I am a Information Systems student, currently in the 2nd period of college. My main focus is on back-end development, with a special interest in Java, Kotlin, Spring Boot, and SQL. I am also exploring technologies like AWS, Docker, and Kubernetes to delve deeper into the software engineering universe.
 </p>
-
 <p align="left">
-  No momento, trabalho com sistemas ERP e CRM em um supermercado, ajudando na análise de dados e na gestão de processos por meio dessas ferramentas. Além disso, tenho estudo anterior com Python aplicado a ciência de dados e machine learning, mas decidi me dedicar totalmente à área de desenvolvimento de software.
+  Currently, I work with ERP and CRM systems in a supermarket, helping with data analysis and process management through these tools. Additionally, I have previous experience with Python applied to data science and machine learning, but I have decided to fully dedicate myself to software development.
 </p>
-
 <p align="left">
-  🦄 Linguagens: Java, Kotlin, SQL, Python
+  🦄 Languages: Java, Kotlin, SQL, Python
 </p>
-
 <p align="left">
-  💼 Ferramentas: Spring Boot, AWS, Docker, Kubernetes, Git/GitHub, sistemas ERP e CRM
+  💼 Tools: Spring Boot, AWS, Docker, Kubernetes, Git/GitHub, ERP and CRM systems
 </p>
-
 ### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
@@ -36,9 +30,8 @@
     </td>
   </tr>
 </table>
-  💌 Entre em contato comigo: ⤵️
+  💌 Contact me: ⤵️
 </p>
-
 <p align="left">
   <a href="mailto:duduperal@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
