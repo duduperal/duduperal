@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Hello, my name is <strong>Eduardo</strong>. I am a Information Systems student, currently in the 2nd period of college. My main focus is on back-end development, with a special interest in Java, Kotlin, Spring Boot, and SQL. I am also exploring technologies like AWS, Docker, and Kubernetes to delve deeper into the software engineering universe.
+  Hello, my name is <strong>Eduardo</strong>. I am an Information Systems student, currently in the 2nd period of college. My main focus is on Artificial Intelligence and Machine Learning, with a strong interest in Python, PyTorch, Scikit-Learn, and LLMs. I also work with SQL and PostgreSQL for data management and continue to use Java as part of my academic journey.
 </p>
 <p align="left">
-  Currently, I work with ERP and CRM systems in a supermarket, helping with data analysis and process management through these tools. Additionally, I have previous experience with Python applied to data science and machine learning, but I have decided to fully dedicate myself to software development.
+  Currently, I work with ERP and CRM systems in a supermarket, assisting with data analysis and process management. My experience includes applying Python for data science and machine learning, and I am now fully dedicated to deepening my knowledge in AI engineering.
 </p>
 <p align="left">
-  🦄 Languages: Java, Kotlin, SQL, Python
+  🦄 Languages: Python, SQL, PostgreSQL, Java
 </p>
 <p align="left">
-  💼 Tools: Spring Boot, AWS, Docker, Kubernetes, Git/GitHub, ERP and CRM systems
+  💼 Tools: PyTorch, Scikit-Learn, LLMs, Machine Learning, Docker, Kubernetes, Git/GitHub, ERP and CRM systems
 </p>
 <h2>⚙️ GitHub Analytics</h2>
 <table>
